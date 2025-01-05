@@ -101,13 +101,51 @@
 // }
 
 
-let num1=5;
-for(let i; i<10;i++)
-    {
+// let i=0;
+// for(i; i<10;i++)
+//     {
+//      console.log(i);
+//      console.log("hello")
+// }
+
+
+// let num1=0;
+
+// while(num1<=100)
+// {
+// console.log(num1);
+// num1++;
+// }
+// let num1=0;
+// do{
+//     console.log(num1);
+//     i++;
+// }while(i>=10)
+
+// function sum(){
+//     console.log("hello this is sum function")
+// }
+// sum();
+// sum();
+// sum();
+// sum();
+
+// function sum(num1,num2)
+// {
+//     let addition= num1+num2;
+    
+//     console.log(addition)
+
+// }
+// sum(2,3)
+
+function name(fname,lname)
+{
+    let finame= fname+" " +lname;
+    console.log(finame);
 
 }
-
-
+name("suhan","shrestha")
 
 
 
