@@ -139,14 +139,21 @@
 // }
 // sum(2,3)
 
-function name(fname,lname)
-{
-    let finame= fname+" " +lname;
-    console.log(finame);
+// function name(fname,lname)
+// {
+//     let finame= fname+" " +lname;
+//     console.log(finame);
 
-}
-name("suhan","shrestha")
+// }
+// name("suhan","shrestha")
 
+// let printsum= (num1,num2)=>console.log(num1+num2)
+
+// printsum(2,3)
+
+let fullname=(fname,lname)=>console.log(fname+" "+lname)
+
+fullname("suhan","shrestha")
 
 
   
