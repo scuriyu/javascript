@@ -47,29 +47,29 @@
 
 
 
-// let num1=Number(prompt("enter first number"));
-// let num2=Number(prompt("enter second number"));
-// let operator= prompt("enter the operator:");
+let num1=Number(prompt("enter first number"));
+let num2=Number(prompt("enter second number"));
+let operator= prompt("enter the operator:");
 
-// switch(operator)
-// {
-//     case "+":
-//         console.log(num1+num2)
-//         break;
-//         case "-":
-//             console.log(num1-num2)
-//             break;
-//             case "*":
-//                 console.log(num1*num2)
-//                 break; 
-//                 case "/":
-//                     console.log(num1/num2)
-//                     break;
-//                     default:
-//                         console.log("num is not given")
+switch(operator)
+{
+    case "+":
+        console.log(num1+num2)
+        break;
+        case "-":
+            console.log(num1-num2)
+            break;
+            case "*":
+                console.log(num1*num2)
+                break; 
+                case "/":
+                    console.log(num1/num2)
+                    break;
+                    default:
+                        console.log("num is not given")
 
         
-// }
+}
 
 // let num=Number(prompt("enter a number"));
 // switch(num)
@@ -149,11 +149,12 @@
 
 // let printsum= (num1,num2)=>console.log(num1+num2)
 
-// printsum(2,3)
+// // printsum(2,3)
 
-let fullname=(fname,lname)=>console.log(fname+" "+lname)
+// let fullname=(fname,lname)=>console.log(fname+" "+lname)
 
-fullname("suhan","shrestha")
+// fullname("suhan","shrestha") 
+
 
 
   
